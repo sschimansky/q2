@@ -9,10 +9,4 @@
 .container
   = outlet
 
-
-footer.footer
- .container
-   span.text-muted
-     'powered by
-     a href="https://www.iiq-check.de" target="_blank"
-       |iiQ-Check
+= layout/q2-footer
