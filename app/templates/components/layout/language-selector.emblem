@@ -1,0 +1,11 @@
+.btn.d-inline-block Sprache:
+#language-selector.dropdown.d-inline-block
+  button.btn.btn-info.dropdown-toggle type='button' id='language-selector-button' data-toggle='dropdown'
+    |Deutsch
+  .dropdown-menu.dropdown-menu-right aria-labelledby='language-selector-button'
+    h6.dropdown-header Verfügbare Sprachen
+    .dropdown-divider
+    each availableLanguges as |language|
+      a.dropdown-item href='#'
+        img src='/assets/images/flags/de.jpg'
+        span= language

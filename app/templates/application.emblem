@@ -1,7 +1,10 @@
 .q2-master-head
   .container
-    div das Ist der header
-
+    .row.align-items-center
+      .col
+        |Das ist der Header
+      .col.text-right
+        = layout/language-selector
 
 .container
   = outlet
@@ -9,4 +12,7 @@
 
 footer.footer
  .container
-   span.text-muted powerd by iiQ-Check
+   span.text-muted
+     'powered by
+     a href="https://www.iiq-check.de" target="_blank"
+       |iiQ-Check

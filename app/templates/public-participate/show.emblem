@@ -1,0 +1,17 @@
+p.lead Lieber Gast,
+
+p vielen Dank, dass Sie sich die Zeit nehmen möchten, unseren Fragebogen auszufüllen.
+
+p Mit Ihrer Hilfe können wir unsere Leistungen kontinuierlich verbessern. Die Auswertung des Fragebogens erfolgt nach rein statistischen Vorgaben. Eine möglichst hohe Anzahl an Rückläufen eröffnet uns einen Einblick in die gesamte Bandbreite der Wünsche unserer Gäste.
+
+p Um zum Fragebogen zu gelangen, tragen Sie bitte Ihr Abreisedatum ein, wählen Sie die gewünschte Sprache aus und bestätigen Sie die Eingabe mit dem Button „teilnehmen“.
+
+p Wir bedanken uns für Ihre Mühe und freuen uns, wenn wir Sie demnächst wieder in unserem Haus begrüßen können.
+
+p Ihr Team vom
+
+p iiQ-Check Testhotel.
+
+p.text-center
+  a.btn.btn-lg.btn-primary href="test"
+    |Fragebogen beginnen
